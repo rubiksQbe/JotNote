@@ -1,1 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/4085uAZM)
+# JotNote
+A notetaking app where you create virtual notebooks with custom covers. You can add to-do or free-write notes to each notebook, which are displayed like a grid of sticky notes. Tapping them opens up the associated note where you can edit the text and background color. This iOS app is complete with animations and persistent local data.
+
+Inspired by Zoho's Notebook app
